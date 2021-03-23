@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLlTGQ94TQqwnVmL+r8m+kZNLh38wAV9rbnBwowh6AXImdAGW+ZbizQpJo7+ejJeGjG2V0D1vyk0Wne02GQV1g==",
+  "success": true,
+  "projectFilePath": "D:\\Godot Games\\Proj1\\Proj 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
